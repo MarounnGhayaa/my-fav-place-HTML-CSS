@@ -37,3 +37,15 @@ img {
     border-color: black;
     margin-bottom: 20px;
 }
+
+a {
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+a:hover {
+    background-color: lightskyblue;
+}
