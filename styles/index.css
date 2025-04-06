@@ -20,6 +20,11 @@ header {
 main {
     padding: 20px;
     border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    max-width: 70%;
+    margin: auto;
+    background-color: white;
 }
 
 .village-short {
@@ -33,9 +38,16 @@ img {
     width: 100%;
     height: auto;
     border-radius: 10px;
-    border-style:solid;
+    border-style: solid;
     border-color: black;
     margin-bottom: 20px;
+}
+
+footer {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 a {
