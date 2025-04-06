@@ -17,3 +17,14 @@ header {
     margin-bottom: 20px;
 }
 
+main {
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.village-short {
+    padding: 20px;
+    font-family: cursive;
+    font-size: larger;
+    margin-bottom: 20px;
+}
