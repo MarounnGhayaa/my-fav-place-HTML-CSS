@@ -46,3 +46,29 @@ a {
 a:hover {
     background-color: lightskyblue;
 }
+
+li {
+    font-family: cursive;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+div {
+    font-family: cursive;
+    color: darkslategray;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border-style: dotted;
+    border-color: darkslategray;
+}
+
+div:hover {
+    color: black;
+    border-color: black;
+    border-style: solid;
+}
