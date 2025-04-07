@@ -72,3 +72,9 @@ div:hover {
     border-color: black;
     border-style: solid;
 }
+
+.extra-info {
+    background-color: red;
+    color: black;
+    border-style: hidden;
+}
